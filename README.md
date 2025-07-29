@@ -60,10 +60,10 @@ Deploy on cloud (e.g., AWS or Heroku)
 Credit_Card_Fraud_Detection/
 ├── Credit_Card_Fraud_Detection.ipynb
 ├── README.md
-└──  dataset
+└──  dataset ( which was taken by Kaggle )
 
 🧠 Author
-Tanisha Gupta
+Devansh Dixit
 Final-year B.Tech in Computer Science (AI Specialization)
-LinkedIn (www.linkedin.com/in/tanisha-gupta-1030a1282)
+LinkedIn (https://www.linkedin.com/in/devansh-dixit-852b42261)
 
